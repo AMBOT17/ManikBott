@@ -1,5 +1,5 @@
 <p align="center">
-<img src=hthttps://i.ibb.co/2Ypnshk/IMG-20201228-WA0221-2.jpgalt="20210103-132024" border="0">
+<img src=hthttps://i.ibb.co/2Ypnshk/IMG-20201228-WA0221-2.jpg alt="20210103-132024" border="0">
 </p>
 <p align="center">
 <a href="https://github.com/AMBOT17">
